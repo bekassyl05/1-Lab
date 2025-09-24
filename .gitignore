@@ -1,0 +1,14 @@
+# Virtual environment
+.venv/
+
+# PyCharm/IDEA project files
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# CSV/outputs (егер қаласаңыз books.csv қалдырасыз)
+*.log
